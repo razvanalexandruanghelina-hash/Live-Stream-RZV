@@ -1,8 +1,0 @@
-export default function Home() {
-  return (
-    <div>
-      <h1>Live Streaming Platform</h1>
-      <p>Bine ai venit!</p>
-    </div>
-  );
-}
